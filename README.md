@@ -72,16 +72,6 @@ Retailers lose significant revenue due to poor forecast accuracy and unmanaged p
 
 ---
 
-## 📈 Forecast Accuracy
-
-| Model               | MAE           | RMSE          |
-|---------------------|----------------|----------------|
-| ARIMA               | 517,485.78     | 638,683.22     |
-| **Prophet**             | **21,673.41**  | **25,196.17**  |
-| Regression| 833,244.33     | 1,011,483.76   |
-
----
-
 ## ⚡️ Next Steps
 
 - Add more historical data to strengthen time series performance.
